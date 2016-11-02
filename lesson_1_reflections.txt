@@ -1,0 +1,5 @@
+En esta leccion se aprende a hacer comparacion entre dos documentos en Windows:
+
+>FC file1 file2
+
+Para comparar file1 con file2
